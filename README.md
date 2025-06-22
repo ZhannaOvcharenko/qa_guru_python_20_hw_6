@@ -1,1 +1,1 @@
-# qa_guru_python_20_hw_6
+ДЗ по курсу автоматизации на python от QA_GURU
